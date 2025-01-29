@@ -1,0 +1,9 @@
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\Sample_6.exe.config
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\Sample_6.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\Sample_6.pdb
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\obj\Debug\Sample_6.csproj.AssemblyReference.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\obj\Debug\Sample_6.Properties.Resources.resources
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\obj\Debug\Sample_6.csproj.GenerateResource.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\obj\Debug\Sample_6.csproj.CoreCompileInputs.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\obj\Debug\Sample_6.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\obj\Debug\Sample_6.pdb

@@ -1,0 +1,16 @@
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.csproj.AssemblyReference.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.Properties.Resources.resources
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.TextForm.resources
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.csproj.GenerateResource.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.csproj.CoreCompileInputs.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\bin\Debug\TextWindow.exe.config
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\bin\Debug\TextWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\bin\Debug\TextWindow.pdb
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\TextWindow\obj\Debug\TextWindow.pdb
+F:\Системное программирование\Sample_6\bin\Debug\TextWindow.exe.config
+F:\Системное программирование\Sample_6\bin\Debug\TextWindow.exe
+F:\Системное программирование\Sample_6\bin\Debug\TextWindow.pdb
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\TextWindow.exe.config
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\TextWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\TextWindow.pdb

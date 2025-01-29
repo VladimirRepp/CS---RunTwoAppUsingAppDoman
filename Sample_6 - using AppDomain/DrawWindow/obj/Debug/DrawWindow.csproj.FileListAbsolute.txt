@@ -1,0 +1,19 @@
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\bin\Debug\DrawWindow.exe.config
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\bin\Debug\DrawWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\bin\Debug\DrawWindow.pdb
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.csproj.AssemblyReference.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.DrawForm.resources
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.Properties.Resources.resources
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.csproj.GenerateResource.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.csproj.CoreCompileInputs.cache
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\obj\Debug\DrawWindow.pdb
+F:\Системное программирование\Sample_6\bin\Debug\DrawWindow.exe.config
+F:\Системное программирование\Sample_6\bin\Debug\DrawWindow.exe
+F:\Системное программирование\Sample_6\bin\Debug\DrawWindow.pdb
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\Sample_6\bin\Debug\DrawWindow.exe.config
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\Sample_6\bin\Debug\DrawWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\DrawWindow\Sample_6\bin\Debug\DrawWindow.pdb
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\DrawWindow.exe.config
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\DrawWindow.exe
+F:\Системное программирование\MVS проекты - примеры\Sample_6 - using AppDomain\Sample_6\bin\Debug\DrawWindow.pdb
