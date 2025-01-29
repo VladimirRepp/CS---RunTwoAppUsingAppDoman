@@ -1,6 +1,6 @@
 # CS---RunTwoAppUsingAddDoman
-Example of how to Run Two App Using AddDoman from the one MVS project
-First App for input Text, second App for draw input text 
+Example of how to Run Two App Using AddDoman from the one MVS project.
+First App for input Text, second App for draw input text.
 
 Using:
 - C#
