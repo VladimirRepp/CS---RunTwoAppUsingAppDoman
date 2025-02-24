@@ -7,6 +7,7 @@ Using:
 - C# Class Library 
 - .Net Framework
 - Win Form
+- IDE: MVS 2022
 
 Example: 
 
